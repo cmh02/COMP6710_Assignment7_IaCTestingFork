@@ -9,7 +9,7 @@ from iac_testing_antipatterns import IaCTestingAntipatterns
 
 def main():
     
-    
+    print("Making a change for comp6710 assignment 7!")
     
     base_dir= input("Please enter the directory: ")
     print("\n")
